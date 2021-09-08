@@ -1,1 +1,1 @@
-# Sudoku_Game
+The above file is a simulation of the world renowned game "Sudoku" created by Mr. Maki Kaji, I have referred various websites through google.com and various videos available on YouTube to make this particular project. I have used 2 libraries "pygame" and "time". Happy Coding!
